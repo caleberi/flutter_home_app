@@ -1,12 +1,11 @@
 import 'package:flutter/material.dart';
 
-const Color primaryTheme = Color(0xFF100B07);
-const Color iconsTheme  = Color(0xFFFFD600);
-const Color  whiteTheme = Color(0xFFFFFFFF);
-const Color backgroundText = Color(0xFF5E3C22);
-const Color blue = Color(0xFF4E7DA5);
-const Color brown = Color(0xFFA86C36);
-const Color brownLight = Color(0xFFAB906B);
-const Color lightBrown = Color(0xFFBBA98D);
-const Color brownPrimary = Color(0xFFE6D3B2);
-const Color appThemeLight = Color(0xFFF5E6CB);
+const Color buttonColor = Color(0xFFA4D7D8);
+const Color paleDotColor = Color(0xFF6CA5A5);
+const Color greyColor = Color(0xFFA2B4B1);
+const Color paleBrown = Color(0xFFE39D64);
+const Color darkBrown = Color(0xFFB56349);
+const Color black = Color(0xFF3C532);
+const Color blueDot = Color(0xFF5843F5);
+const Color redDot = Color(0xFFFF735E);
+const Color cyanDot = Color(0xFF2AC0C3);
